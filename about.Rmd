@@ -1,5 +1,7 @@
 ---
-title: "About This Website"
+title: "About Author"
 ---
 
-More about this website.
+Rifqy Rosyidah Ilmi
+Master Informatics Student of UIN Maliki Malang
+![](rifqyrosyidahilmi.png)

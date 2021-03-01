@@ -1,4 +1,13 @@
 ---
-title: "Rfor Data Science Tutorial Website"
+title: "R for Data Science Tutorial"
 ---
 
+This website contain simple tutorial R for Data Science.
+How to do data science with R?
+We will learn how to get our data into R
+Get it into the most useful structure, transform it, visualise it and model it. We’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time.
+We’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.
+
+Most of content in this website adopted from R for Data Science book by Hadley Wickham & Garret Gloremund or simply click https://r4ds.had.co.nz/
+
+Thank you and Enjoy!
