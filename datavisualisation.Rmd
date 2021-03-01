@@ -3,7 +3,6 @@ title: "Data Visualisation"
 author: "@ Rifqy Rosyidah Ilmi @ Prof Dr Suhartono M.Kom @ Magister Informatika @ UIN Maulana Malik Ibrahim @ UIN Malang"
 date: "14/2/2021"
 output: html_document
-
 ---
 
 Visualisasi Data grafik menggunakan ggplot. 

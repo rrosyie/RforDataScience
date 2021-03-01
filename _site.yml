@@ -1,4 +1,5 @@
 name: "Rifqy Rosyidah Ilmi"
+output_dir: "docs"
 navbar:
   title: "R for Data Science"
   left:
